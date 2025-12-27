@@ -48,7 +48,7 @@
 |📒 방탈출 사용자 예약 Step1 - 3|[PR-34](https://github.com/woowacourse/spring-roomescape-member/pull/34)|
 |📒 방탈출 사용자 예약 Step4 - 6|[PR-108](https://github.com/woowacourse/spring-roomescape-member/pull/108)|
 |📞 방탈출 예약 관리 Step1 - 3|[PR-28](https://github.com/woowacourse/spring-roomescape-waiting/pull/28)|
-|📞 방탈출 예약 관리 Step3 - 4|[PR-148](https://github.com/woowacourse/spring-roomescape-member/pull/108)|
+|📞 방탈출 예약 관리 Step3 - 4|[PR-148](https://github.com/woowacourse/spring-roomescape-waiting/pull/148)|
 |💸 방 탈출 결제 배포 Step1|[PR-71](https://github.com/woowacourse/spring-roomescape-payment/pull/71)|
 |💸 방 탈출 결제 배포 Step2-4|[PR-117](https://github.com/woowacourse/spring-roomescape-payment/pull/117)|
 
